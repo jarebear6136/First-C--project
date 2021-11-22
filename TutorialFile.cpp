@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//this all data type examples
 int main(){
     //print statements
     cout << "Hello World!"<< endl;
