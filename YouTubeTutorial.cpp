@@ -13,5 +13,6 @@ int main()
     //get user info from the keyboard
     cin >>x; 
     //display input value
-    cout << "Your Number is: " <<x; 
+    cout << "Your Number is: " <<x;
+    return 0;
 }
